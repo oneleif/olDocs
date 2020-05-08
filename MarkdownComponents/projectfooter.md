@@ -1,7 +1,7 @@
 ## oneleif project
 This means that the project is sponsored by the oneleif community, and the collaborators are team members from oneleif.
 
-![](https://github.com/oneleif/olDocs/blob/master/assets/images/oneleif_logos/full_logo/oneleif_whiteback.png)
+<a href="http://oneleif.com" rel="oneleif website">![](https://github.com/oneleif/olDocs/blob/master/assets/images/oneleif_logos/full_logo/oneleif_whiteback.png)</a>
 
 
 
@@ -17,6 +17,11 @@ We love to give back through free resources and guidance.
 Click on the link below to join the Discord server.
 
 [![](https://img.shields.io/badge/oneleif-Discord-7284be.svg)](https://discord.gg/tv9UdJK)
+
+-OR-
+
+[Check out our website](http://oneleif.com)
+
 
 ### Questions?
 Feel free to email us at: oneleifdev@gmail.com 
